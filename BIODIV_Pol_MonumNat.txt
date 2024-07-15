@@ -1,0 +1,21 @@
+Monumentos Naturales. Árboles singulares:
+	 Atributo: FEATURE - Descripción: Identificador de feature (objeto geográfico) en el modelo de datos SITNA
+	 Atributo: IDESPP - Descripción: Código completo de espacio natural protegido
+	 Atributo: ESPP - Descripción: Denominación de espacio natural protegido
+	 Atributo: NOMBRE_eus - Descripción: Denominación por la que se conoce a una entidad geográfica en euskera
+	 Atributo: LUGAR - Descripción: Nombre que describe el lugar donde se ubica cada uno de los elementos de una capa (localidades, parajes, topónimos, etc…)
+	 Atributo: ESPECIE - Descripción: Nombre científico o común  de especies (vegetales y animales)
+	 Atributo: NUMEJEMP - Descripción: Número de individuos
+	 Atributo: X25830 - Descripción: Coordenada X en EPSG 25830 (UTM 30N ETRS 89)
+	 Atributo: Y25830 - Descripción: Coordenada Y en EPSG 25830 (UTM 30N ETRS 89)
+	 Atributo: GEOM_AREA - Descripción: Superficie del objeto geográfico en metros cuadrados (valor calculado de la geometría)
+	 Atributo: GEOM_PERI - Descripción: Perímetro del objeto geográfico en metros (valor calculado de la geometría)
+	 Atributo: YEAR - Descripción: Año de declaración Monumento Natural
+	 Atributo: IDEPUE - Descripción: Código de espacio natural protegido según codificación Europea
+	 Atributo: IDCATEIUCN - Descripción: Categorias para la gestión de las áreas protegidas según la Unión Internacional para la Conservación de la Naturaleza
+	 Atributo: LEGISLACIO - Descripción: Legislación que rige para los elementos de una capa
+	 Atributo: FECHADECLG - Descripción: Fecha de la declaración del espacio protegido
+	 Atributo: FECHAVIGOR - Descripción: Fecha en la que entra en vigor la normativa aplicable al espacio
+	 Atributo: URLDECLARA - Descripción: Url de enlace a una dirección Web relacionada con la capa
+	 Atributo: URLPDF - Descripción: Url de enlace a una dirección Web con documentación técnica de la capa
+	 Atributo: BEGINLIFE - Descripción: Fecha de inserción del dato en la base de datos SITNA
